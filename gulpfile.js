@@ -61,7 +61,7 @@ gulp.task('jshint', function () {
 });
 
 // Server
-gulp.task('serve', function () {
+gulp.task('serve', ['bower', 'build'], function () {
   browserSync.init({
     server: {
       baseDir: "./",
