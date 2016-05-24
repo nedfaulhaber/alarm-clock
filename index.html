@@ -2,13 +2,21 @@
 <html>
   <head>
     <link rel="stylesheet" href="build/css/vendor.css">
+    <link rel="stylesheet" href="css/styles.css">
     <script src="build/js/vendor.min.js"></script>
     <script type="text/javascript" src="build/js/app.js"></script>
     <title>journal</title>
   </head>
   <body>
+    <div class="explosion">
+      <button id="off">Off</button>
+      <button id="snooze">Snooze</button>
+    </div>
     <div class="container">
-      
+      <h1>ALARM CLOCK!!</h1>
+      <p>The current time is: <span class="current-time"></span></p>
+      <input id="set-time" type="time" step="1"></input>
+      <button id="set-button">Set Alarm</button>
     </div>
   </body>
 </html>
