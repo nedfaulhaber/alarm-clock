@@ -1,8 +1,8 @@
-# _GitHub User Repository Searcher_
+# _Alarm Clock_
 
-#### _Modern JS Exercise for Epicodus, 05/27/2016_
+#### _Modern JS Exercise for Epicodus_
 
-#### By _**Ned Faulhaber**_
+#### By _**Ned Faulhaber and Josh Bertsche**_
 
 ## Description
 
@@ -40,5 +40,5 @@ _If you have any difficulties with this web page, contact me at nedfaulhaber@gma
 
 *This web page is licensed under the MIT license*
 
-Copyright (c) 2016 **_Ned Faulhaber_**
+Copyright (c) 2016 **_Ned Faulhaber & Josh Bertsche_**
 
