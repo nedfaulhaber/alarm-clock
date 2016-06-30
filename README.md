@@ -6,7 +6,7 @@
 
 ## Description
 
-_This web page allows a user to enter a GitHub username and retrieve the names and descriptions of their GitHub public repositories. Simply enter the username in the search field and hit the submit button to retrieve the list of information._
+_This web page allows a user to enter a time, set an alarm, and have the alarm go off in the form of an animated explosion image._
 
 ## Setup/Installation Requirements
 
@@ -20,7 +20,7 @@ _This web page allows a user to enter a GitHub username and retrieve the names a
 
 ## Known Bugs
 
-_None._
+_In rare instances, the alarm does not go off at the time set.  More often, the animation does not work on the explosion._
 
 ## Support and contact details
 
